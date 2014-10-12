@@ -1,5 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<!--  Code (C) 2011 Patrick Lambert (dendory@gmail.com)  -  Provided under the Apache License 2.0  -->
+<!--  Code (C) 2011 Patrick Lambert (dendory@gmail.com)  -  Provided under the MIT License  -->
 <!--  Available from: http://dendory.net/twofactors  -->
 <!--  PHP snippets in part based on the GA2PHP project: http://code.google.com/p/ga4php/  -->
 <html>
